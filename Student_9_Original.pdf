@@ -1,0 +1,49 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >>
+endobj
+5 0 obj
+<< /Length 2308 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td (Artificial Intelligence: A Double-Edged Sword) Tj 0 -20 Td
+50 730 Td () Tj 0 -20 Td
+50 710 Td (The proliferation of AI technologies presents humanity with both tremendous opportunities and significant risks. Natural language models now generate human-quality text, raising questions about authorship and authenticity. Computer vision systems power facial recognition, enabling both security improvements and surveillance concerns.) Tj 0 -20 Td
+50 690 Td () Tj 0 -20 Td
+50 670 Td (Scientific research accelerates through AI-assisted discovery. Protein folding predictions help develop new medicines. Materials science uses AI to design stronger and lighter compounds. Astronomy leverages machine learning to analyze telescope data and discover exoplanets.) Tj 0 -20 Td
+50 650 Td () Tj 0 -20 Td
+50 630 Td (Economic impacts of AI extend beyond individual job losses. Entire industries face disruption as AI-powered competitors emerge. Wealth inequality may worsen if AI benefits concentrate among capital owners. Conversely, AI could reduce costs and improve access to essential services like healthcare and education.) Tj 0 -20 Td
+50 610 Td () Tj 0 -20 Td
+50 590 Td (Democratic processes face new challenges from AI-enabled disinformation. Automated bots manipulate social media discourse. Sophisticated propaganda targets specific demographic groups. Election integrity depends on detecting and countering these threats.) Tj 0 -20 Td
+50 570 Td () Tj 0 -20 Td
+50 550 Td (Cultural implications deserve attention as AI influences art, music, and literature. Questions arise about creativity and what makes something uniquely human. AI tools democratize creative expression but may homogenize artistic output.) Tj 0 -20 Td
+50 530 Td () Tj 0 -20 Td
+50 510 Td (Philosophical questions about consciousness and personhood become pressing as AI capabilities grow. If machines achieve general intelligence, what moral status should they hold? How do we define and measure consciousness? These questions move from abstract philosophy to practical policy concerns.) Tj 0 -20 Td
+50 490 Td () Tj 0 -20 Td
+50 470 Td (International cooperation offers the best path forward. No single nation can address AI challenges alone. Shared standards, collaborative research, and mutual accountability create conditions for beneficial AI development. Our collective choices today determine whether AI becomes a tool for human flourishing or a source of division and harm.) Tj 0 -20 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000214 00000 n 
+0000000304 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2508
+%%EOF

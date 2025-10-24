@@ -1,0 +1,41 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >>
+endobj
+5 0 obj
+<< /Length 1296 >>
+stream
+BT
+/F1 12 Tf
+50 750 Td (AI and Modern Society) Tj 0 -20 Td
+50 730 Td () Tj 0 -20 Td
+50 710 Td (Artificial intelligence has revolutionized numerous aspects of our daily lives. From virtual assistants like Siri and Alexa to recommendation systems on streaming platforms, AI is everywhere. In healthcare, AI algorithms can now detect diseases from medical images with remarkable accuracy, sometimes surpassing human doctors. The financial sector uses AI for fraud detection and algorithmic trading.) Tj 0 -20 Td
+50 690 Td () Tj 0 -20 Td
+50 670 Td (These technological advances bring both opportunities and challenges. Automation threatens traditional employment while creating new job categories. Data privacy concerns grow as companies collect personal information to train AI models. Society must grapple with questions about accountability and transparency in automated decision-making.) Tj 0 -20 Td
+50 650 Td () Tj 0 -20 Td
+50 630 Td (Looking ahead, responsible AI development requires collaboration between technologists, policymakers, and civil society. We need strong regulations, ethical guidelines, and continuous education to adapt to this technological shift. The goal should be creating AI systems that enhance human capabilities rather than replace them.) Tj 0 -20 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000214 00000 n 
+0000000304 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1496
+%%EOF
